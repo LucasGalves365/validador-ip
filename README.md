@@ -1,7 +1,7 @@
 Validador de IP (IPv4)
 
-Programa desenvolvido em Python para validar endereços IPv4 e identificar
-sua classe e máscara padrão.
+Sistema em Python para validação e análise de endereços IPv4, aplicando
+conceitos de redes de computadores e lógica de programação.
 
 Tecnologias
 
@@ -13,9 +13,15 @@ Funcionalidades
 
 - Identificação da classe do IP
 
-- Exibição da máscara padrão
+- Máscara padrão
+
+- Cálculo de hosts possíveis
+
+- Identificação de IP privado ou público
+
+- Menu interativo no terminal
 
 Objetivo
 
-Praticar lógica de programação aplicada a conceitos de redes de computadores,
-unindo desenvolvimento e fundamentos de redes.
+Unir programação e fundamentos de redes, desenvolvendo um sistema prático
+voltado para aprendizado e estágio em TI.
